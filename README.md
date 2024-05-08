@@ -1,7 +1,7 @@
 # Chronometer
 Android Application - Chronometer using Java PL.
 
-There is a video in ./ named Chronometer-Testing.mkv
+There is a video in ./ named Chronometer-Testing.mkv.
 
 Some screenshots of the app:
 
